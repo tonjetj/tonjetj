@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying Front-End Development at Noroff
-- 🌱 I’m currently learning how to use React
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/tonje-totland-jenssen-1b6209a4)
 <!--
 **tonjetj/tonjetj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

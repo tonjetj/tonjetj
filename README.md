@@ -30,7 +30,7 @@ Tools:
 
 ## Get in Touch
 - 💬 You can reach me on my [LinkedIn](https://www.linkedin.com/in/tonje-totland-jenssen-1b6209a4)
-- 🌐 Visit my portfolio website
+- 🌐 Visit my [Portfolio Website](https://tonjetj.github.io/portfolio-ca/)
 
 <!--
 **tonjetj/tonjetj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,8 @@
 # Hi, I'm [Tonje](https://github.com/tonjetj)! 👋
 
 Welcome to my GitHub profile! 
-I'm passionate beginner programmer with a love for 📷 photography, 🎨 art and 🏔️ hiking. 
+
+I'm a passionate beginner programmer with a love for 📷 photography, 🎨 art and 🏔️ hiking. 
 I enjoy building accessible, responsive, clean and inclusive websites/products and exploring new technologies to expand my skills.
 
 ## About Me

@@ -20,6 +20,11 @@ Programming languages:
 - CSS
 - JavaScript
 
+Frameworks:
+- React
+- SASS
+- Bootstrap
+
 Tools: 
 - VS Code
 

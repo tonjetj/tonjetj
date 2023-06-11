@@ -1,7 +1,25 @@
-### Hi there 👋
+# Hi, I'm [Tonje](https://github.com/tonjetj)! 👋
 
-- 🔭 I’m currently studying Front-End Development at Noroff
-- 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/tonje-totland-jenssen-1b6209a4)
+Welcome to my GitHub profile! 
+I'm passionate beginner programmer with a love for 📷 photography, 🎨 art and 🏔️ hiking. 
+I enjoy building accessible, responsive, clean and inclusive websites/products and exploring new technologies to expand my skills.
+
+## About Me
+🎓 Graduated from [Noroff] studying Front-End Development(https://www.noroff.no/).
+🔭 I am currently learning how to create my own REST APIs and enhance my proficiency in implementing CRUD operations
+⚡ Fun fact: I can play songs on the piano by ear
+🤔 I’m looking for help with improving my skills in CRUD
+
+If you'd like to check out some of my projects, head over to my portfolio website. 
+
+## Skills
+Programming languages: HTML, CSS, JavaScript
+Tools: VS Code
+
+## Get in Touch
+💬 You can reach me on my [LinkedIn](https://www.linkedin.com/in/tonje-totland-jenssen-1b6209a4)
+🌐 Visit my portfolio website
+
 <!--
 **tonjetj/tonjetj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

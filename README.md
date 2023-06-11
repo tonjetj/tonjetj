@@ -8,7 +8,7 @@ I enjoy building accessible, responsive, clean and inclusive websites/products a
 ## About Me
 - 🎓 Just finished my studies at [Noroff](https://www.noroff.no/) studying Front-End Development.
 - 🔭 I am currently learning how to create my own REST APIs and enhance my skills in implementing CRUD operations.
--⚡Fun fact: I can play songs on the piano by ear.
+- ⚡Fun fact: I can play songs on the piano by ear.
 - 🤔 I’m looking for help with improving my skills in CRUD.
 
 If you'd like to check out some of my projects, head over to my portfolio website. 

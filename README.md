@@ -11,7 +11,7 @@ I enjoy building accessible, responsive, clean and inclusive websites/products a
 - ⚡Fun fact: I can play songs on the piano by ear
 - 🤔 I’m looking for help with improving my skills in CRUD
 
-If you'd like to check out some of my projects, head over to my portfolio website. 
+If you'd like to check out some of my projects, head over to my [Portfolio Website](https://tonjetj.github.io/portfolio-ca/).
 
 ## Skills
 
@@ -27,6 +27,8 @@ Frameworks:
 
 Tools: 
 - VS Code
+- Adobe XD
+- Figma
 
 ## Get in Touch
 - 💬 You can reach me on my [LinkedIn](https://www.linkedin.com/in/tonje-totland-jenssen-1b6209a4)

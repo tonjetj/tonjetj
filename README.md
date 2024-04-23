@@ -6,9 +6,7 @@ I'm a passionate beginner programmer with a love for 📷 photography, 🎵 musi
 I enjoy building accessible, responsive, clean and inclusive websites/products and exploring new technologies to expand my skills.
 
 ## About Me
-- 🔭 Currently learning how to use Jest and Cypress for e2e testing
-
-If you'd like to check out some of my projects, head over to my [Portfolio Website](https://tonjetj.github.io/portfolio-ca/).
+- 🛠️ Currently updating my portfolio
 
 ## Skills
 
@@ -19,20 +17,21 @@ Programming languages:
 
 Frameworks:
 - React
-- SASS
-- Bootstrap
 
 Tools: 
 - VS Code
 - Adobe XD
 - Figma
 
+
+<!--
+**tonjetj/tonjetj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+If you'd like to check out some of my projects, head over to my [Portfolio Website](https://tonjetj.github.io/portfolio-ca/).
 ## Get in Touch
 - 💬 You can reach me on my [LinkedIn](https://www.linkedin.com/in/tonje-totland-jenssen-1b6209a4)
 - 🌐 Visit my [Portfolio Website](https://tonjetj.github.io/portfolio-ca/)
 
-<!--
-**tonjetj/tonjetj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

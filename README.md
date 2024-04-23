@@ -1,5 +1,7 @@
 # Hi, I'm [Tonje](https://github.com/tonjetj)! 👋
 
+![](https://komarev.com/ghpvc/?username=tonjetj&abbreviated=true&color=blueviolet)
+
 Welcome to my GitHub profile! 
 
 I'm a passionate beginner programmer with a love for 📷 photography, 🎵 music and 🏔️ hiking. 
@@ -31,6 +33,8 @@ If you'd like to check out some of my projects, head over to my [Portfolio Websi
 ## Get in Touch
 - 💬 You can reach me on my [LinkedIn](https://www.linkedin.com/in/tonje-totland-jenssen-1b6209a4)
 - 🌐 Visit my [Portfolio Website](https://tonjetj.github.io/portfolio-ca/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonjetj&theme=cobalt)](https://github.com/tonjetj/github-readme-stats)
 
 
 Here are some ideas to get you started:

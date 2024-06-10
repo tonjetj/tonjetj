@@ -9,8 +9,8 @@ I'm a passionate beginner programmer with a love for 📷 photography, 🎵 musi
 I enjoy building accessible, responsive, clean and inclusive websites/products and exploring new technologies to expand my skills.
 
 ## Currently working on
--🪄 Recreating a former project in Vue.js
--🛠️ Currently updating my portfolio
+- 🪄 Recreating a former project in Vue.js
+- 🛠️ Currently updating my portfolio
 
 ## Skills
 

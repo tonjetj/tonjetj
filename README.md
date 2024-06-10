@@ -4,10 +4,12 @@
 
 Welcome to my GitHub profile! 
 
+## About Me 
 I'm a passionate beginner programmer with a love for 📷 photography, 🎵 music and 🏔️ hiking. 
 I enjoy building accessible, responsive, clean and inclusive websites/products and exploring new technologies to expand my skills.
 
-## About Me
+## Currently working on
+- 🪄 Recreating a former project in Vue.js
 - 🛠️ Currently updating my portfolio
 
 ## Skills

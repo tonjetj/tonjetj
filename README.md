@@ -20,7 +20,8 @@ Programming languages:
 - JavaScript
 
 Frameworks:
-- React
+- React.js
+- Vue.js
 
 Tools: 
 - VS Code

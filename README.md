@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 ## About Me 
 I like to code and design websites with a focus on inclusiveness and userfriendly solutions. 
-Other than that, I spend my time trying to keep my plants alive, cuddle with my two black cats, and reading thrilling and interesting books. 
+Other than that, I spend my time trying to keep my plants alive, cuddle with my two black cats, and reading good books. 
 
 ## Currently working on
 

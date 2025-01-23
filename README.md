@@ -9,8 +9,8 @@ I like to code and design websites with a focus on inclusiveness and userfriendl
 Other than that, I spend my time trying to keep my plants alive, cuddle with my two black cats, and reading good books. 
 
 ## Currently working on
-
-🪄 Redesigning my portfolio. Coming soon! 🧙🏻
+- 👩🏻‍💻 Learning Python
+- 🪄 Redesigning my portfolio. Coming soon! 🧙🏻
 
 ## Skills
 

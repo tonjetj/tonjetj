@@ -7,7 +7,6 @@ I like to code and design websites with a focus on inclusiveness and userfriendl
 I have a degree in front-end development and are currently studying UX design. 
 
 ## Currently working on
-- 👩🏻‍💻 Learning Python
 - 🪄 Redesigning my portfolio. Coming soon! 🧙🏻
 
 ## Skills

@@ -1,12 +1,10 @@
-# Hi, I'm [Tonje](https://github.com/tonjetj)! 👋
+# Hi, I'm [Tonje](https://github.com/tonjetj)! 👋 
 
 ![](https://komarev.com/ghpvc/?username=tonjetj&abbreviated=true&color=blueviolet)
 
-Welcome to my GitHub profile! 
-
 ## About Me 
 I like to code and design websites with a focus on inclusiveness and userfriendly solutions. 
-Other than that, I spend my time trying to keep my plants alive, cuddle with my two black cats, and reading good books. 
+I have a degree in front-end development and are currently studying UX design. 
 
 ## Currently working on
 - 👩🏻‍💻 Learning Python
